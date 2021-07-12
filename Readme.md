@@ -1,0 +1,2 @@
+Part of the project/research I conducted on MLSA of different media sources during the COVID-19 pandemic.
+This is not all of the code/project, however, it includes the main notebook I used to preprocess the training/testing data, train the model, and analyze/predict the Twitter target data.
